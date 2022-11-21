@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+h1,h4,p,a{
+    color:black;
+    text-decoration: none;
+}
