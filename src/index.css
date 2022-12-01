@@ -7,9 +7,30 @@
     font-family: 'Outfit', sans-serif;
 }
 body{
-    background-color: aliceblue;
+    background-color:rgb(163, 162, 162);
 }
-h1,h4,p,a{
-    color:black;
+h1,h4,h6,p,a{
+    color:whitesmoke;
     text-decoration: none;
+}
+
+.btn{
+    padding:10px 28px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248 ,217, 15);
+    color:#222;
+    border:1px solid #fff;
+    font-weight: 600;
+    cursor:pointer;
+}
+.btn-light{
+    background: transparent;
+    color:#fff;
+}
+
+.btn:hover{
+    background: rgba(255,255,255,0.2);
+    color:#fff;
+    transition:0.3s;
 }
