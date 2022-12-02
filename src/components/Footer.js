@@ -43,7 +43,8 @@ const Footer = () => {
 
           <div className="right">
             <h4>About me!</h4>
-            <h6>Hi, I'm Rajesh Singh.Aspiring Frontend Web Developer.Pinge Me Here.</h6>
+            <h6>Hi, I'm Rajesh Singh.Aspiring Frontend Web Developer.</h6>
+            <h6>Copyright &copy; Pixel Head,Inc.{(new Date().getFullYear())}.</h6>
             <h4>
             <a href="https://www.linkedin.com/in/rajesh-singh-mehra-57282a225"><FaLinkedin size={20} style={{color:"white",marginRight:"2rem"}}/></a>
                 

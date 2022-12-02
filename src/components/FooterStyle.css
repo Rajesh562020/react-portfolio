@@ -19,19 +19,19 @@
 }
 .location{
     display:flex;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.5rem;
 }
 .location p {
-    line-height: 30px;
-    margin-bottom: 0.8rem;
+    line-height: 25px;
+    margin-bottom: 0.5rem;
 }
 .phone{
-    line-height: 30px;
-    margin-bottom: 0.8rem;
+    line-height: 25px;
+    margin-bottom: 0.5rem;
 }
 .mail{
-    line-height: 30px;
-    margin-bottom: 0.8rem;
+    line-height: 25px;
+    margin-bottom: 0.5rem;
 }
 .right{
     height:100%;
@@ -42,14 +42,14 @@
 
 }
 .right h6{
-    margin-top: 0.8rem;
-    line-height: 30px;
-    margin-bottom: 0.8rem;
+    margin-top: 0.5rem;
+    line-height: 25px;
+    margin-bottom: 0.5rem;
 }
 .social{
     margin-top: 1rem;
-    line-height: 30px;
-    margin-bottom: 0.8rem;
+    line-height: 25px;
+    margin-bottom: 0.5rem;
 }
 @media screen and (max-width: 640px){
     .footer-container{
