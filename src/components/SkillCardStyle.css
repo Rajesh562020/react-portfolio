@@ -10,7 +10,7 @@
 }
 .skillCards{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 h1{
     align-items: center;
