@@ -2,7 +2,7 @@ import "./SkillCardStyle.css";
 import React from 'react'
 import Html from "../assets/html-img.png";
 import Css from "../assets/css-img.png";
-import Js from "../assets/git-img.png";
+import Js from "../assets/js-img.png";
 import reacti from "../assets/react-img.png";
 import giti from "../assets/git-img.png";
 

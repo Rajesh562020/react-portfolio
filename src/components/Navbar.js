@@ -20,7 +20,10 @@ const Navbar = () => {
 
   return (
     <div className={color ? "header header-bg" : "header"}>
-        <Link to='/' style={{textDecoration: "none"}}>
+        {/* <Link to='/' style={{textDecoration: "none"}}>
+            <h1>RS</h1>
+        </Link> */}
+         <Link to='/' >
             <h1>RS</h1>
         </Link>
         <ul className={click ? ("nav-menu active") : ("nav-menu")}>
