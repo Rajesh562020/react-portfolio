@@ -10,7 +10,7 @@ import {Routes,Route} from "react-router-dom";
 function App(){
   return (
     <>
-    //routes
+    {/* //routes */}
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/projects" element={<Projects/>} />
