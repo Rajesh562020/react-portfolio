@@ -2,6 +2,7 @@ import Pro1 from "../assets/pro1.png";
 import Pro2 from "../assets/pro2.png";
 import Pro3 from "../assets/pro3.png";
 import Pro4 from "../assets/pro4.png";
+import Pro5 from "../assets/pro5.png";
 
 const ProjectCardData = [
   {
@@ -40,6 +41,14 @@ const ProjectCardData = [
     viewLink: "https://vermillion-pie-64a203.netlify.app/",
     codeLink: "https://github.com/Rajesh562020/spotify-clone",
   },
+  {
+    imgsrc: Pro5,
+    title: "Basic To-Do List App with JavaScript",
+    detailText:
+      " It is a minimalist to-do app for taking notes of important tasks.",
+    viewLink: "https://relaxed-vacherin-d63452.netlify.app/",
+    codeLink: "https://github.com/Rajesh562020/To-do-App-v1.0",
+  }
 ];
 
 export default ProjectCardData;
