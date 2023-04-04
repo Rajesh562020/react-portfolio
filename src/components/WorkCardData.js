@@ -3,17 +3,17 @@ import Pro2 from "../assets/pro2.png";
 import Pro3 from "../assets/pro3.png";
 import Pro4 from "../assets/pro4.png";
 import Pro5 from "../assets/pro5.png";
-
+import Pro6 from "../assets/pro6.png";
 const ProjectCardData = [
   {
-    imgsrc: Pro1,
-    title: "Movie card list app",
+    imgsrc: Pro6,
+    title: "Netflix clone",
     detailText:
-      " It helps in rendering  the dataset of local .JSON file into beautiful cards which show us the details of different blockbuster movies.",
-    viewLink: "https://beautiful-semolina-c490b0.netlify.app/",
-    codeLink:
-      "https://github.com/Rajesh562020/movie-list-app-react/tree/master",
+      " Hassle free User Authentication using the google powered firebase tool  and browsing  for movies and TV shows, creating and managing user profiles, and streaming videos.",
+    viewLink: "https://netflix-clone-v2-code.web.app/",
+    codeLink: "https://github.com/Rajesh562020/netflix_clone_v2",
   },
+ 
   {
     imgsrc: Pro2,
     title: "Portfolio website with React",
@@ -48,6 +48,15 @@ const ProjectCardData = [
       " It is a minimalist to-do app for taking notes of important tasks.",
     viewLink: "https://relaxed-vacherin-d63452.netlify.app/",
     codeLink: "https://github.com/Rajesh562020/To-do-App-v1.0",
+  },
+  {
+    imgsrc: Pro1,
+    title: "Movie card list app",
+    detailText:
+      " It helps in rendering  the dataset of local .JSON file into beautiful cards which show us the details of different blockbuster movies.",
+    viewLink: "https://beautiful-semolina-c490b0.netlify.app/",
+    codeLink:
+      "https://github.com/Rajesh562020/movie-list-app-react/tree/master",
   }
 ];
 

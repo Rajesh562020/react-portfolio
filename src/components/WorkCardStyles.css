@@ -14,6 +14,8 @@
 .project-card{
     background: gray;
     padding: 1.2rem 1rem;
+    /* justify-content: space-evenly;
+    flex-direction: column; */
 }
 .project-card img{
     width: 100%;
@@ -29,13 +31,24 @@
    text-align: justify;
 
 }
+.pro-details{
+    /* display: flex;
+    align-items:end;
+    flex-direction: column; */
+}
 .pro-btns{
+    /* background-color:aqua ; */
+    /* align-items:last baseline; */
+    /* flex-direction: column; */
     display: flex;
     justify-content: space-between;
-    padding: 0.5rem 0;
+    padding: 0.5rem 1rem;
+   
 }
 .pro-btns .btn{
+    
     padding: 0.5rem 1rem;
+    
 }
 @media screen and (max-width: 740px){
     .project-container{
